@@ -12,7 +12,7 @@ This project conducts an explanatory data analysis on the NYSERDA Electric Vehic
 
 The analytical workflow for this project begins with data ingestion from a public dataset. The data is then processed and cleaned using Python, followed by extensive exploratory data analysis. Key metrics and trends are identified through statistical summaries and visualizations. The architecture is designed to be straightforward, focusing on data exploration and insight generation from a tabular dataset.
 
-![EV Rebate Analysis Workflow](ev_rebate_workflow.png)
+![EV Rebate Analysis Workflow](https://github.com/ShireenTalaat/NYSERDA-EV-Rebate-Analysis/blob/4612fdc77f7c862e4b51e4e46b2e76bff80cab75/EV.jpg)
 
 ## Technologies Used
 
